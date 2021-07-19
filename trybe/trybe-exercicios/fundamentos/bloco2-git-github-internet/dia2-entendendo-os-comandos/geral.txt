@@ -1,0 +1,8 @@
+O que vamos fazer no dia:  
+
+Tema: do git log ao Pull Request
+
+-> git log
+-> git remove
+-> git ignore
+-> git push, pull, fetch
