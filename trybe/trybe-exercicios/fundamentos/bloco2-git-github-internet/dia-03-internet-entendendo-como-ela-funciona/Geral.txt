@@ -1,0 +1,15 @@
+Aqui aprenderemos sobre a internet
+
+-> Texto do "você será capaz de":
+  Explicar de forma simples como a internet funciona;
+  Entender o modelo Cliente & Servidor e identificar suas partes;
+  Compreender como funcionam os protocolos HTTP e HTTPS;
+  Identificar quais os tipos de requisição podem ser feitos através desses protocolos.
+
+-> Pontos principais:
+  Criada e 1969, nos EUA, se chamava arpanet;
+  1987 liberado uso comercial;
+  1992 surgiram diversas empresas provedoras de acesso a internet;
+  Software e Hardwawre
+  Sinal gerenciavel: modem
+  Roteador: cria rotas
