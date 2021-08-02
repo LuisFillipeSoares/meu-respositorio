@@ -1,0 +1,15 @@
+Proposta:  
+  -> Pegue papel e caneta ou abra um bloco de texto e gaste 5 minutos escrevendo um algoritmo sobre como se vestir para uma festa.
+
+1. Vá ao quarto onde tenha roupas que lhe agradem;
+2. Vá ao guarda roupa e o abra;
+3. Visualize algumas peças de roupas provavéis para ir a uma vesta e que você acha que ficaria bem em você;
+4. Pegue essas roupas e coloque em alguma superficie;
+5. Olhe mais uma vez as roupas separadas;
+6. Experimente e coloque novamente as que menos te agradaram dessa seleção no guarda roupas;
+7. Agora se decida entre as que ficaram na superficie qual você deseja ir e guarde as demais no guarda roupa;
+8. Selecione um calçado de sua preferencia;
+9. Passe a roupa se não estiver passada e for de passar;
+10. Caso ainda não tenha banhado, dirija-se até o banheiro e tome banho;
+11. Passe desodorante, perfume e se ajeite;
+12. Depois de banhar, vista o que separou para ir a festa.
