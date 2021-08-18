@@ -1,0 +1,22 @@
+Antes da aula:
+  - Dinâmico;
+
+  AddEventListener(tipoEvento, função);
+  "click", "mouseover" e "mouseleave"
+  Permite adicionar escutadores de forma mais flexível;
+  Permitir especificar os tipos de evento;
+  Garantir que podemos fazer a manipulação de forma dinâmica;
+  Código fica em Javascript, não usando javascript juntamente com html;
+
+  Tipos de eventos: https://www.w3schools.com/jsref/dom_obj_event.asp
+  Os mais comuns: click , change , mouseover e keyup
+
+  Diferença entre o evento change e o evento keyup: https://codepen.io/johnatas-henrique/pen/jOEQQvZ
+  O navegador passa para a função chamada no addEventListener o evento como um parâmetro , podendo ser acessado pela função. Veja mais sobre o assunto: https://developer.mozilla.org/pt-BR/docs/Web/API/Event especialmente a parte sobre event.target
+
+
+Na hora da aula:  
+  "Um escutador";
+  window.onload: Só vai modificar algo quando a página for toda carregada;
+    Exemplo: tem um texto em uma página e depois tem outro;
+  
